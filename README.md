@@ -1,6 +1,7 @@
 # CODSOFT
 This is my First task of internship in which I design a Landing page with the help of html and css.
-Sure! Here are the key design elements of the landing page in bullet points:
+
+which consist following things ..
 
 - **Semantic HTML5 Structure**: 
   - Use of `<header>`, `<nav>`, `<section>`, and `<footer>` tags for improved readability and accessibility.
