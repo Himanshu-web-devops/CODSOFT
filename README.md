@@ -35,7 +35,7 @@ which consist following things ..
 These points highlight the main design considerations and techniques used to create the landing page, focusing on aesthetics, functionality, and user experience.
 
 
-## Second tas of internship creating My Portfolio with the help of Html and Css.
+## Second task of internship creating My Portfolio with the help of Html and Css.
 
 which consist following things ..
 
