@@ -92,3 +92,53 @@ which consist following things ..
 
 Creating this portfolio involved a combination of HTML5, CSS3, and Boxicons to build a responsive and visually appealing web page. The focus was on creating a clean and professional design that effectively showcases my skills and projects while providing a great user experience across all devices.
 
+
+### Third task of My  Internship to creating a Calculator with the help of Html Css and java Script ..
+
+
+which consist following things ..
+
+### How I Created My Calculator
+
+1. **HTML Structure:**
+   - I started by creating the HTML structure for the calculator. The HTML document includes a `<head>` section with metadata and links to the CSS file and a JavaScript file.
+   - The body of the HTML document contains a `div` element with the class `calculator`. Inside this `div`, there is another `div` with the class `display` for showing the current input and result.
+   - Below the display, there is a `div` with the class `buttons` that contains the calculator buttons. Each button has an `onclick` attribute to call corresponding JavaScript functions when clicked.
+
+2. **CSS Styling:**
+   - I used CSS to style the calculator and make it visually appealing.
+   - The CSS file is linked in the `<head>` section of the HTML document.
+   - I set the body to use Flexbox for centering the calculator on the page and gave it a dark background color.
+   - The calculator itself is styled using Grid layout to organize the buttons and display. It has a background color, padding, border-radius, and box-shadow to create a modern look.
+   - Each button is styled with background colors, font sizes, padding, and border-radius. Different colors are used for operator buttons and the equals button to distinguish them from number buttons.
+
+3. **JavaScript Functionality:**
+   - I added interactivity to the calculator using JavaScript, which is linked at the end of the body section.
+   - The JavaScript code defines variables to keep track of the current input, the chosen operator, and the previous input.
+   - The `appendNumber` function is used to add numbers to the current input. It checks if the current input is '0' and replaces it if the new input is not a decimal point.
+   - The `chooseOperator` function sets the chosen operator and stores the current input as the previous input.
+   - The `calculate` function performs the chosen arithmetic operation based on the stored operator and inputs. It updates the current input with the result.
+   - The `clearDisplay` function resets all inputs and the operator.
+   - The `deleteLast` function removes the last character from the current input.
+   - The `updateDisplay` function updates the content of the display `div` to show the current input.
+
+### Technologies Used
+
+1. **HTML5:**
+   - Used to create the structure and content of the calculator.
+   - The document includes semantic tags and attributes to define the layout and functionality.
+
+2. **CSS3:**
+   - Used for styling the calculator and making it visually appealing.
+   - Flexbox is used to center the calculator on the page.
+   - Grid layout is used to organize the buttons and display within the calculator.
+   - Custom styles are applied to buttons and the display to create a modern look.
+
+3. **JavaScript:**
+   - Used to add interactivity and functionality to the calculator.
+   - Functions are defined to handle number input, operator selection, calculations, clearing the display, deleting the last input, and updating the display.
+   - The `onclick` attributes in the HTML buttons call these JavaScript functions to perform the necessary operations.
+
+### Conclusion
+
+Creating this calculator involved using HTML5, CSS3, and JavaScript to build a functional and visually appealing web-based calculator. The focus was on creating a clean and modern design, ensuring that the calculator is easy to use and responsive to user interactions. The combination of these technologies allowed me to deliver a fully functional calculator that performs basic arithmetic operations and provides a good user experience.
